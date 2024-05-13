@@ -1,4 +1,4 @@
-Ex3 - 207404997
+Ex3: The assignment - write an algorithm for the Pac-Man player.
 
 The general logic of the algorithm:
 1. Find a target. 
